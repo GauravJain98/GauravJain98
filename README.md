@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <h1>Hi there, I am <a href="https://gauravjain98.github.io" target="_blank">Gaurav</a> 😄</h1> 
 
@@ -49,3 +48,4 @@ Developer that loves working and tea☕
 <img align="left" alt="GauravJain98's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GauravJain98&show_icons=true&hide_border=true&theme=radical" />
 
 
+-->
