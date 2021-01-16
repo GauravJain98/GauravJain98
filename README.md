@@ -41,11 +41,7 @@ Developer that loves working and tea☕
 ### Connect with Me
 [<img align="left" alt="Gaurav Jain" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://gauravjain98.github.io) [<img align="left" alt="Twitter - Gaurav Jain" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/twitter.svg" />](https://twitter.com/gaurav_jain98) [<img align="left" alt="Instagram - Gaurav Jain" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/instagram.svg" />](https://www.instagram.com/cuber_dude/) [<img align="left" alt="LinkedIn - Gaurav Jain" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/linkedin.svg" />](https://www.linkedin.com/in/GauravJain98)  [<img align="left" alt="Email -Gaurav Jain" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />](mailto:gauravcdj.98@gmail.com)
 <!-- [<img align="left" alt="YouTube -Gaura" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/youtube.svg" />](https://www.youtube.com/c/RohanDasTech) -->
----
 
 ## **My GitHub Stats**
 
 <img align="left" alt="GauravJain98's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GauravJain98&show_icons=true&hide_border=true&theme=radical" />
-
-
--->
